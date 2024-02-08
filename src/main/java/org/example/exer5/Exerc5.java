@@ -1,4 +1,4 @@
-package org.example.exec5;
+package org.example.exer5;
 
 public class Exerc5 {
 

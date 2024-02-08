@@ -1,4 +1,4 @@
-package org.example.Exer3;
+package org.example.exer3;
 
 public class Dados {
 

@@ -1,4 +1,4 @@
-package org.example.exerc2;
+package org.example.exer2;
 
 import java.util.Scanner;
 

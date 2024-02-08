@@ -1,6 +1,5 @@
-package org.example.Exer3;
+package org.example.exer3;
 
-import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
